@@ -56,5 +56,6 @@ The program outputs:
 
 ---
 
-**Need Help?** Just paste the C++ code into an online compiler - it works immediately with zero setup!
+**Need Help?** Just paste the Python - it works immediately with zero setup!
+
 
