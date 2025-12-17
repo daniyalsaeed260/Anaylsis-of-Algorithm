@@ -1,10 +1,10 @@
-# Closest Pair Quest - C++ Version
+# Closest Pair Quest 
 
-## 🎯 Quick Start (No Installation Required!)
+##  Quick Start (No Installation Required!)
 
-Since you don't have a C++ compiler installed, here's the **fastest way** to run the game:
+Since you don't have a Python installed, here's the **fastest way** to run the game:
 
-### Option 1: Use Online C++ Compiler (3 minutes, NO installation!)
+### Option 1: Use Online Python (3 minutes, NO installation!)
 
 1. **Copy the code** from `closest_pair_quest.cpp`
 2. Go to one of these online compilers:
@@ -27,7 +27,7 @@ Since you don't have a C++ compiler installed, here's the **fastest way** to run
    ```
 4. Open the generated `closest_pair_game.html` in your browser
 
-## 📁 Files Included
+##  Files Included
 
 - `closest_pair_quest.cpp` - Complete C++ implementation
 - This program will:
@@ -37,7 +37,7 @@ Since you don't have a C++ compiler installed, here's the **fastest way** to run
   - Compare execution times
   - Generate a beautiful HTML visualization
 
-## 🎮 What You'll See
+##  What You'll See
 
 The program outputs:
 - Console results showing algorithm times
@@ -48,7 +48,7 @@ The program outputs:
   - Performance statistics
   - Beautiful dark theme UI
 
-## 💡 How It Works
+##  How It Works
 
 1. **Brute Force**: Compares every pair of points - O(n²)
 2. **Divide & Conquer**: Recursively splits the problem - O(n log n)
@@ -57,3 +57,4 @@ The program outputs:
 ---
 
 **Need Help?** Just paste the C++ code into an online compiler - it works immediately with zero setup!
+
